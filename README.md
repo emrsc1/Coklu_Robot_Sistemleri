@@ -1,5 +1,7 @@
 # Otonom Çoklu Robot Lojistik Simülasyonu (Multi-Robot Warehouse Sim 2.5D)
 
+![Depo Simülasyon Arayüzü](assets/1.png)
+
 Bu proje, fütüristik bir akıllı depolama ortamında birden fazla otonom mobil robotun (AMR) görev paylaşımı yapmasını, çarpışmasız rotalamasını ve gerçek zamanlı katı fizik kurallarıyla hareket etmesini simüle eden 2.5D izometrik bir robotik çalışmasıdır. **Pygame** kütüphanesi kullanılarak sıfırdan geliştirilmiştir.
 
 ---
@@ -30,14 +32,9 @@ Bu çalışmanın temel amacı, endüstriyel depo lojistiğinde sıkça karşıl
 
 ## 🎥 Sistem Çalışma Videosu
 
-> [!NOTE]
-> Projenin çalışma prensiplerini, otonom şerit geçişlerini ve sıkışma önleme algoritmalarını gösteren ekran kaydını aşağıya ekleyebilirsiniz.
+Depo lojistiği simülasyonunun gerçek zamanlı çalışma performansını, robotların şerit geçişlerini ve sıkışma önleme mekanizmalarını aşağıdaki videodan izleyebilirsiniz:
 
-*(Aşağıdaki alana kendi hazırlayacağınız simülasyon çalışma videosunu veya GIF animasyonunu yerleştirebilirsiniz)*
-
-```markdown
-![Sistem Çalışma Demosu](assets/simulation_demo.gif)
-```
+<video src="assets/video.mp4" width="100%" controls autoplay loop muted></video>
 
 ---
 
@@ -104,6 +101,7 @@ $$\text{Mesafe} < 2 \times R \quad (0.56\text{ birim})$$
 ---
 
 ## 💻 Simülasyon Ekranı ve Arayüz Özellikleri
+
 
 Simülasyonda iki ana panel yer almaktadır:
 
