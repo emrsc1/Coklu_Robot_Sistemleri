@@ -34,7 +34,9 @@ Bu çalışmanın temel amacı, endüstriyel depo lojistiğinde sıkça karşıl
 
 Depo lojistiği simülasyonunun gerçek zamanlı çalışma performansını, robotların şerit geçişlerini ve sıkışma önleme mekanizmalarını aşağıdaki videodan izleyebilirsiniz:
 
-<video src="assets/video.mp4" width="100%" controls autoplay loop muted></video>
+<video src="https://github.com/emrsc1/Coklu_Robot_Sistemleri/raw/main/assets/video.mp4" width="100%" controls autoplay loop muted></video>
+
+*Eğer video tarayıcınızda veya mobil uygulamanızda otomatik olarak açılmıyorsa, doğrudan izlemek/indirmek için **[buraya tıklayabilirsiniz](https://github.com/emrsc1/Coklu_Robot_Sistemleri/raw/main/assets/video.mp4)**.*
 
 ---
 
